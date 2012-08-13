@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://sedanlu.github.com/atom.xml" rel="self"/>
   <link href="http://sedanlu.github.com/"/>
-  <updated>2012-08-14T00:54:09+08:00</updated>
+  <updated>2012-08-14T00:56:36+08:00</updated>
   <id>http://sedanlu.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -22,7 +22,7 @@
 
 <p>從今天起要用 <em>Octopress</em> 記錄編程練習！</p>
 
-<p><img src="http://sedanlu.github.com/figures/profile.png" alt="圖片測試" /></p>
+<p><img src="http://sedanlu.github.com/images/profile.png" alt="圖片測試" /></p>
 
 <hr />
 ]]></content>
