@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://sedanlu.github.com/atom.xml" rel="self"/>
   <link href="http://sedanlu.github.com/"/>
-  <updated>2012-08-14T00:24:41+08:00</updated>
+  <updated>2012-08-14T00:27:39+08:00</updated>
   <id>http://sedanlu.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -44,10 +44,13 @@
 
 <p>2.&#8217; -&#8216;, &#8217; `*&#8217;, or &#8217; +&#8217; (with indent) gives itemizing;</p>
 
-<p>   e.g.
-   -
-   -
-   -</p>
+<p>   e.g.</p>
+
+<p>   -</p>
+
+<p>   -</p>
+
+<p>   -</p>
 
 <hr />
 ]]></content>
