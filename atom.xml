@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://sedanlu.github.com/atom.xml" rel="self"/>
   <link href="http://sedanlu.github.com/"/>
-  <updated>2012-08-14T01:46:05+08:00</updated>
+  <updated>2012-08-14T01:50:11+08:00</updated>
   <id>http://sedanlu.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -27,11 +27,6 @@
 <p><a href="http://sedanlu.github.com/OthersHtml/test_code.html">連結測試</a></p>
 
 <p>文內源碼測試：</p>
-
-<p><link rel="stylesheet" href="http://yandex.st/highlightjs/7.1/styles/default.min.css"></p>
-
-<script src="http://yandex.st/highlightjs/7.1/highlight.min.js"></script>
-
 
 <p>Python:</p>
 
