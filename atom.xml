@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://sedanlu.github.com/atom.xml" rel="self"/>
   <link href="http://sedanlu.github.com/"/>
-  <updated>2012-08-14T00:18:52+08:00</updated>
+  <updated>2012-08-14T00:24:41+08:00</updated>
   <id>http://sedanlu.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -36,13 +36,18 @@
 <h2>An quick usage of markdown</h2>
 
 <p>1.<code>##</code> gives a title, which has level in number of <code>#</code>;
-e.g.</p>
+   e.g.</p>
 
-<h2>the higher level</h2>
+<p>   ## the higher level</p>
 
-<h3>the lover level</h3>
+<p>   ### the lover level</p>
 
-<p>2.&#8217;-&#8217; with indent gives itemizing;</p>
+<p>2.&#8217; -&#8216;, &#8217; `*&#8217;, or &#8217; +&#8217; (with indent) gives itemizing;</p>
+
+<p>   e.g.
+   -
+   -
+   -</p>
 
 <hr />
 ]]></content>
