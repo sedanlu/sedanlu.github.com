@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://sedanlu.github.com/atom.xml" rel="self"/>
+  <link href="http://sedanlu.github.com/"/>
+  <updated>2012-08-13T11:41:35+08:00</updated>
+  <id>http://sedanlu.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[2012aug12]]></title>
+    <link href="http://sedanlu.github.com/blog/2012/08/12/2012aug12/"/>
+    <updated>2012-08-12T00:00:00+08:00</updated>
+    <id>http://sedanlu.github.com/blog/2012/08/12/2012aug12</id>
+    <content type="html"><![CDATA[<p>layout: post
+title: &#8220;2012aug12&#8221;
+date: 2012-08-12 21:10
+comments: true</p>
+
+<h2>categories: announce</h2>
+]]></content>
+  </entry>
+  
+</feed>
