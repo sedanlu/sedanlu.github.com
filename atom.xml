@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://sedanlu.github.com/atom.xml" rel="self"/>
   <link href="http://sedanlu.github.com/"/>
-  <updated>2012-08-13T11:41:35+08:00</updated>
+  <updated>2012-08-13T15:38:31+08:00</updated>
   <id>http://sedanlu.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,10 +14,23 @@
 
   
   <entry>
-    <title type="html"><![CDATA[2012aug12]]></title>
-    <link href="http://sedanlu.github.com/blog/2012/08/12/2012aug12/"/>
+    <title type="html"><![CDATA[Test2]]></title>
+    <link href="http://sedanlu.github.com/blog/2012/08/13/test2/"/>
+    <updated>2012-08-13T00:00:00+08:00</updated>
+    <id>http://sedanlu.github.com/blog/2012/08/13/test2</id>
+    <content type="html"><![CDATA[<h1>The Aug13 2012 test</h1>
+
+<p><em>mark</em></p>
+
+<p><code>test</code></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://sedanlu.github.com/blog/2012/08/12/test/"/>
     <updated>2012-08-12T00:00:00+08:00</updated>
-    <id>http://sedanlu.github.com/blog/2012/08/12/2012aug12</id>
+    <id>http://sedanlu.github.com/blog/2012/08/12/test</id>
     <content type="html"><![CDATA[<p>layout: post
 title: &#8220;2012aug12&#8221;
 date: 2012-08-12 21:10
