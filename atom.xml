@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://sedanlu.github.com/atom.xml" rel="self"/>
   <link href="http://sedanlu.github.com/"/>
-  <updated>2012-08-14T01:28:39+08:00</updated>
+  <updated>2012-08-14T01:31:11+08:00</updated>
   <id>http://sedanlu.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -25,6 +25,14 @@
 <p><img src="http://sedanlu.github.com/images/dororo.png" alt="圖片測試" /></p>
 
 <p><a href="http://sedanlu.github.com/OthersHtml/test_code.html">連結測試</a></p>
+
+<p>文內源碼測試：
+Python:</p>
+
+<pre><code>def func():
+      for i in [1, 2, 3]:
+              print "%s" % i
+</code></pre>
 
 <hr />
 ]]></content>
